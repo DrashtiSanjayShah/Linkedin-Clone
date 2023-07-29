@@ -1,4 +1,4 @@
-# LinkedIn Clone 🚀
+# LinkedIn Clone - ReactJS & Firebase v9 🚀
 
 This LinkedIn clone is a web application built using ReactJS and Firebase v9, providing users with a seamless social networking experience. With a user-friendly interface, it enables users to register, log in, and share posts with others on the platform. Here are some of its key features:
 
@@ -29,7 +29,7 @@ To run this project locally on your machine, follow these steps:
 1. Clone the repository to your local machine.
 
 ```
-git clone [https://github.com/your-username/linkedin-clone.git]
+git clone https://github.com/DrashtiSanjayShah/linkedin-clone.git
 ```
 
 2. Navigate to the project directory.
@@ -77,6 +77,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License 📄
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Deployed Website
+This project is currently deployed at https://linkedin-ccee8.web.app
 
 ---
 
