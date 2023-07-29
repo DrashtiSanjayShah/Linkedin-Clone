@@ -29,7 +29,7 @@ To run this project locally on your machine, follow these steps:
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/linkedin-clone.git
+git clone [https://github.com/your-username/linkedin-clone.git](https://github.com/DrashtiSanjayShah/Linkedin-Clone.git)
 ```
 
 2. Navigate to the project directory.
